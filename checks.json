@@ -1,2 +1,4 @@
-["hi",
- ".navigation"]
+["h1", ".navigation", ".pitch", ".section1", ".section2", ".faq", ".footer",
+".video", ".thermometer", ".order", ".social", ".logo", ".blank", ".about",
+".heading", ".subheading", ".basic"]
+
